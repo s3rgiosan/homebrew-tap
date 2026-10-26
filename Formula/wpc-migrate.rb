@@ -1,8 +1,8 @@
 class WpcMigrate < Formula
   desc "Move WordPress sites from LocalWP into wp-container"
   homepage "https://github.com/s3rgiosan/wpc-migrate"
-  url "https://github.com/s3rgiosan/wpc-migrate/releases/download/1.3.0/wpc-migrate-macos-arm64.tar.gz"
-  sha256 "4878362a5a43988ebefbcbbf2e805b689978785d27d319eac005898d61c151be"
+  url "https://github.com/s3rgiosan/wpc-migrate/releases/download/1.4.0/wpc-migrate-macos-arm64.tar.gz"
+  sha256 "5fd89651304d97ad1e9293a1723f87157e60abeca8a8db2bf4d5f4d999d8cce9"
   license "MIT"
 
   depends_on arch: :arm64
